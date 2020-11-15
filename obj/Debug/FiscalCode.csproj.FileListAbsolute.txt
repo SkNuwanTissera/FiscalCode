@@ -1,0 +1,6 @@
+C:\Users\sliit\RiderProjects\FiscalCode\obj\Debug\FiscalCode.csprojAssemblyReference.cache
+C:\Users\sliit\RiderProjects\FiscalCode\obj\Debug\FiscalCode.csproj.CoreCompileInputs.cache
+C:\Users\sliit\RiderProjects\FiscalCode\bin\Debug\FiscalCode.exe
+C:\Users\sliit\RiderProjects\FiscalCode\bin\Debug\FiscalCode.pdb
+C:\Users\sliit\RiderProjects\FiscalCode\obj\Debug\FiscalCode.exe
+C:\Users\sliit\RiderProjects\FiscalCode\obj\Debug\FiscalCode.pdb
